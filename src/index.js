@@ -28,7 +28,7 @@ function getETN() {
 }
 
 getETN()
-setInterval(getETN, 500);
+setInterval(getETN, 300000);
 
 notifyBtn.addEventListener('click', function(event) {
     const modalPath = path.join('file://', __dirname, 'add.html')
