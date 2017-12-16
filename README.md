@@ -13,7 +13,6 @@ $ npm install
 $ npm start
 ```
 
-# Or download the binary and unzip it to your computer and run 
-"Cryptocurrency-Tracker.exe"
+# Or download the binary and unzip it to your computer and run "Cryptocurrency-Tracker.exe"
 
 https://github.com/joejoemister/cryptocurrency-tracker/releases
